@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://snidemides.github.io/sitemap.html
+Sitemap: https://snidemides.github.io/app/sitemap.html
+Sitemap: https://snidemides.github.io/assets/sitemap.html
+Sitemap: https://snidemides.github.io/includes/sitemap.html
+Sitemap: https://snidemides.github.io/src/sitemap.html
